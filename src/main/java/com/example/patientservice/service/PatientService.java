@@ -23,5 +23,10 @@ public class PatientService {
                 .map(PatientMapper::toDTO)
                 .toList();
     }
+    public void saveNewPatient(Patient patient)
+    {
+        patientRepository.save(patient);
+
+    }
 
 }
