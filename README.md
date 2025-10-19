@@ -9,4 +9,6 @@
 
 <img width="1470" height="956" alt="Screenshot 2025-10-14 at 12 14 58 PM" src="https://github.com/user-attachments/assets/91ce419a-fd7f-4846-b156-88d60ff0e432" />
 
+## Day 3
+<img width="1470" height="956" alt="Screenshot 2025-10-17 at 11 20 25 PM (2)" src="https://github.com/user-attachments/assets/95dd30a8-4f47-4446-80b0-b07920d7b71c" />
 
