@@ -1,9 +1,9 @@
-POST http://localhost:4000/patients
+POST http://localhost:4004/api/patients
 Content-Type: application/json
 
 {
   "name" : "Saquib Zarjis Ansari",
-  "email" : "kafffckssaff_tesgt@gmail.com",
+  "email" : "kaSSffbSfckssaff_tesgt@gmail.com",
   "address" : "angus",
   "dateOfBirth" : "2004-01-04",
   "registeredDate" : "2004-01-04"
