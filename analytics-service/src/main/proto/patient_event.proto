@@ -1,0 +1,12 @@
+// things to be sent in an event...
+syntax = "proto3";
+
+package patient.events;
+
+option java_multiple_files = true; // generate different files for different classes..
+message PatientEvent{
+  string id = 1;
+  string name = 2;
+  string email = 3;
+  string event_type = 4;
+}
