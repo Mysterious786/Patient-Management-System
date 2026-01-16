@@ -11,10 +11,17 @@
         <module name="patientservice" />
         <module name="analytics-service" />
         <module name="api-gateway" />
+        <module name="infra" />
         <module name="integration-tests" />
         <module name="billing-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="infraStructure" target="25" />
+      <module name="infrastructure" target="25" />
+      <module name="Infrastructure" target="25" />
+      <module name="infrastructure1" target="25" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
